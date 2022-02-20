@@ -3,6 +3,8 @@
 *  Keen at NodeJS, Linux and epistemology
 *  Golang and Python enthusiast
 
+## Terraform
+* [**AWS simple SQS + Lambda**](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)
 
 ## Go programing language
 
