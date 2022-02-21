@@ -1,7 +1,6 @@
-# LautaroJayat
-*  As Geek as I can
-*  Keen at NodeJS, Linux and epistemology
-*  Golang and Python enthusiast
+These are some projects I made while learning some particular technologies.
+I wish I could share the best of my work but, you know, those things are private.
+Nonetheless, I will keep updating my repos every time I can make some time :)
 
 ## Terraform
 * [**AWS simple SQS + Lambda**](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)
