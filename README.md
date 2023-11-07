@@ -40,7 +40,7 @@ Feel free to drop me an email, open an issue, or send a pull request to say hell
 
 |    Name    |    Languages/Tools    |    Description    |
 |------------|-----------------------|-------------------|
-[AWS - Simple SQS + Lambda](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)| Terraform - Nodejs | The simplest example on how to create a lambda triggered by an sqs message|
+[AWS - Simple SQS + Lambda](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)| AWS - Terraform - Nodejs | The simplest example on how to create a lambda triggered by an sqs message|
 
 <br>
 
