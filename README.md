@@ -37,14 +37,6 @@ Feel free to drop me an email, open an issue, or send a pull request to say hell
 
 <br>
 
-### IaC - Cloud - DevOps
-
-|    Name    |    Languages/Tools    |    Description    |
-|------------|-----------------------|-------------------|
-[AWS - Simple SQS + Lambda](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)| AWS - Terraform - Nodejs | The simplest example on how to create a lambda triggered by an sqs message|
-
-<br>
-
 ### Node - Javascript - Typescript
 
 |    Name    |    Languages/Tools    |    Description    |
@@ -54,3 +46,11 @@ Feel free to drop me an email, open an issue, or send a pull request to say hell
 |[Little Compression Server](https://github.com/LautaroJayat/imagemin-compress-server)| Nodejs | A simple image compression server implementation|
 |[JWT Auth and Tests](https://github.com/LautaroJayat/jwt-and-mocha-example)| Nodejs | An implementation of a JWT auth server with it's corresponding integration tests|
 |[Vainilla Nodejs Streaming Server](https://github.com/LautaroJayat/vainilla-nodejs-206-partial-content-streaming)| Nodejs | An implementation of a streaming web server in plain nodejs| 
+
+<br>
+
+### IaC - Cloud - DevOps
+
+|    Name    |    Languages/Tools    |    Description    |
+|------------|-----------------------|-------------------|
+[AWS - Simple SQS + Lambda](https://github.com/LautaroJayat/terraform-simple-sqs-lambda)| AWS - Terraform - Nodejs | The simplest example on how to create a lambda triggered by an sqs message|
