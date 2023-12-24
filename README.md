@@ -49,6 +49,7 @@ Feel free to drop me an email, open an issue, or send a pull request to say hell
 
 |    Name    |    Languages/Tools    |    Description    |
 |------------|-----------------------|-------------------|
+|[Mongo To SQL](https://github.com/LautaroJayat/mongo-to-sql) | Typescript | A CLI tool that parses mongo commands and returns its corresponding SQL query|
 |[Twitter Bot](https://github.com/LautaroJayat/twitter_bot) | Vainilla JS | A simple client library to interact wtih twitter's v1 API|
 |[Little Compression Server](https://github.com/LautaroJayat/imagemin-compress-server)| Nodejs | A simple image compression server implementation|
 |[JWT Auth and Tests](https://github.com/LautaroJayat/jwt-and-mocha-example)| Nodejs | An implementation of a JWT auth server with it's corresponding integration tests|
