@@ -18,7 +18,7 @@ Feel free to drop me an email, open an issue, or send a pull request to say hell
 
 |    Name    |    Languages/Tools    |    Description    |
 |------------|-----------------------|-------------------|
-|[RUOK - Backend Services Monitor](https://github.com/back-end-labs/ruok)| Go - Postgres - Make | An open source tool to leverage Posgres deployments as brokers for backend monitoring and alerting services. | 
+|[RUOK - Backend Services Monitor](https://github.com/LautaroJayat/ruok)| Go - Postgres - Make | An open source tool to leverage Posgres deployments as brokers for backend monitoring and alerting services. | 
 |[Backoffice Server Template](https://github.com/LautaroJayat/go-backoffice-template)| Go - K8s - Helm- Make | A template for a kubernetes deployment including an authorization proxy and a server that implements a crud and events propagation. | 
 |[Authorization Proxy](https://github.com/LautaroJayat/go_auth_proxy_example)| Go | An implementation of an Authorization proxy using the Go standard library|
 |[Programming Patterns](https://github.com/LautaroJayat/golang_examples)| Go | Implementations of several programming patterns in Go |
